@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am currently a CS major
+I also do some coding projects in my own time
+
 <!--
 **a-daniel-pi/a-daniel-pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
