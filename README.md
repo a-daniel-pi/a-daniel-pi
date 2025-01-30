@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently a CS major
+I am currently a CS major\
 I also do some coding projects in my own time
 
 <!--
